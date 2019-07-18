@@ -1,0 +1,70 @@
+.list {
+  margin: 5px;
+  padding: 10px;
+}
+h1,
+p,
+button,
+hr {
+  margin-top: 10px;
+}
+p {
+  text-align: justify;
+}
+
+h1 {
+  color: #1a75ff;
+}
+
+.btn {
+  background: white;
+  border-radius: 50px;
+  outline: none;
+  margin-top: 10px;
+  text-align: center;
+  text-decoration: none;
+  border: 3px solid black !important;
+  width: 100px;
+  color: black;
+  padding: 10px;
+  font-family: "Montserrat", sans-serif;
+  cursor: pointer;
+}
+.arrowIcon {
+  margin: auto;
+}
+
+.group {
+  display: flex;
+  align-items: center;
+}
+
+.main {
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid #ccc;
+  webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  border-radius: 5px;
+}
+
+.head {
+  text-align: center;
+  text-transform: uppercase;
+}
+.goback {
+  text-decoration: none;
+  padding: 8px;
+  margin-top: 210px;
+  background: red;
+  border-radius: 12px;
+  color: white;
+  width: 500px;
+  margin-top: 1000px;
+  position: relative;
+}
+
+.sub {
+  margin-bottom: 30px;
+}
